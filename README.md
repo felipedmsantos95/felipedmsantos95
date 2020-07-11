@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to felipedmsantos95's Github profile! 📁
 
-<!--
-**felipedmsantos95/felipedmsantos95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"Don't stop believin'..."*
 
-Here are some ideas to get you started:
+![assets/manaus.png](assets/manaus.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently living in Manaus - BR 🇧🇷
+
+**felipedmsantos95's GitHub Stats**
+
+![](https://github-readme-stats.vercel.app/api?username=felipedmsantos95&show_icons=true&hide_border=true&hide=["prs","contribs", "issues"])
+
+***Computer Engineer graduated from the Federal University of Amazonas***  🖥️
+
+**Interests**
+
+- Internet of Things
+- Web Development
+- Blockchain
+
+**Follow me**
+
+<a href="https://www.linkedin.com/in/felipe-santos-14a781143/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
