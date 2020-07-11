@@ -1,10 +1,14 @@
 # Welcome to felipedmsantos95's Github profile! 📁
 
-*"Don't stop believin'..."*
 
-<p align="center"> <b>Computer Engineer graduated from the Federal University of Amazonas</b>  🖥️ </p>
 
-*Currently living in Manaus - BR* 🇧🇷
+<p align="center">
+  
+  <b>Computer Engineer graduated from the Federal University of Amazonas</b>  🖥️ 
+  <i>"Don't stop believin'..."</i>
+  <i>Currently living in Manaus - BR 🇧🇷</i>
+</p>
+
 
 **Interests**
 
