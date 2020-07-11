@@ -4,7 +4,7 @@
 
 <p align="center"> <b>Computer Engineer graduated from the Federal University of Amazonas</b>  🖥️ </p>
 
-Currently living in Manaus - BR 🇧🇷
+*Currently living in Manaus - BR* 🇧🇷
 
 **Interests**
 
@@ -12,7 +12,7 @@ Currently living in Manaus - BR 🇧🇷
 - Web Development
 - Blockchain
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipedmsantos95&hide=["contribs","prs"])
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipedmsantos95&hide=["contribs","prs","issues" ])
 
 **Follow me**
 
