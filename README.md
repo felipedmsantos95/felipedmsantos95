@@ -6,6 +6,7 @@
   
   <b>Computer Engineer graduated from the Federal University of Amazonas</b>  🖥️ 
   </br>
+  </br>
   <i>"Don't stop believin'..."</i>
   </br>
   <i>Currently living in Manaus - BR 🇧🇷</i>
