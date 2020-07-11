@@ -18,4 +18,4 @@
 
 Currently living in Manaus - BR 🇧🇷
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipedmsantos95&hide=["prs","contribs", "issues"])
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipedmsantos95&hide=["contribs","prs"])
