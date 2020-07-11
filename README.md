@@ -2,22 +2,15 @@
 
 *"Don't stop believin'..."*
 
-<p align="center"> ***Computer Engineer graduated from the Federal University of Amazonas***  🖥️ </p>
+<p align="center"> <b>Computer Engineer graduated from the Federal University of Amazonas</b>  🖥️ </p>
+
+Currently living in Manaus - BR 🇧🇷
 
 **Interests**
 
 - Internet of Things
 - Web Development
 - Blockchain
-
-
-<p align="center">
-  
-![assets/manaus.png](assets/manaus.png)
-Currently living in Manaus - BR 🇧🇷
-
-</p>
-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipedmsantos95&hide=["contribs","prs"])
 
