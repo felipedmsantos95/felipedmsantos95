@@ -2,7 +2,7 @@
 
 
 
-<p align="center">
+<p >
   
   <b>Computer Engineer graduated from the Federal University of Amazonas</b>  🖥️ 
   </br>
