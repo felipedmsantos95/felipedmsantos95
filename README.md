@@ -2,7 +2,7 @@
 
 *"Don't stop believin'..."*
 
-***Computer Engineer graduated from the Federal University of Amazonas***  🖥️
+<p aling="center"> ***Computer Engineer graduated from the Federal University of Amazonas***  🖥️ </p>
 
 **Interests**
 
