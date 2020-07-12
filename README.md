@@ -9,7 +9,7 @@
   </br>
   <i>"Don't stop believin'..."</i>
   </br>
-  <i>Currently living in Manaus - BR 🇧🇷</i>
+  <i>Currently living in Manaus - 🇧🇷</i>
 </p>
 
 
