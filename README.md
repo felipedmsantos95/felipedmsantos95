@@ -4,7 +4,7 @@
 
 <p >
   
-  <b>Computer Engineer graduated from the Federal University of Amazonas</b>  🖥️ 
+  <b>Computer Engineer  🖥️ 
   </br>
   </br>
   <i>"Don't stop believin'..."</i>
